@@ -1,4 +1,4 @@
-This github is following the Udemyt class: python-for-data-science-and-machine-learning-bootcam by Jose Portilla
+This github is following the Udemy class: python-for-data-science-and-machine-learning-bootcam by Jose Portilla
 
 # Python-Preparation
 

@@ -1,0 +1,10 @@
+Intro to Matplotlib
+Most popular plitting library
+similaar to MatLab graphical plotting
+
+conda install matplotlib
+or
+pip install matplotlib
+
+matplotlib.org/gallery
+to see different type of plot
